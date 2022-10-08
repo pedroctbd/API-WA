@@ -1,0 +1,15 @@
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.AssemblyInfo.cs
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\bin\Debug\net6.0\WAAPI.Application.deps.json
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\bin\Debug\net6.0\WAAPI.Application.dll
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\bin\Debug\net6.0\WAAPI.Application.pdb
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\bin\Debug\net6.0\WAAPI.Domain.dll
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\bin\Debug\net6.0\WAAPI.Domain.pdb
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.csproj.CopyComplete
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.dll
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\refint\WAAPI.Application.dll
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\WAAPI.Application.pdb
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Application\obj\Debug\net6.0\ref\WAAPI.Application.dll

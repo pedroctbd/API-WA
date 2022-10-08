@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "WAAPI.Domain": {
+      "commandName": "Project"
+    }
+  }
+}

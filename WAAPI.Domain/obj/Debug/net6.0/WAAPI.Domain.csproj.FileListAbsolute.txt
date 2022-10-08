@@ -1,0 +1,12 @@
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\WAAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\WAAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\WAAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\WAAPI.Domain.AssemblyInfo.cs
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\WAAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\bin\Debug\net6.0\WAAPI.Domain.deps.json
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\bin\Debug\net6.0\WAAPI.Domain.dll
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\bin\Debug\net6.0\WAAPI.Domain.pdb
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\WAAPI.Domain.dll
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\refint\WAAPI.Domain.dll
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\WAAPI.Domain.pdb
+C:\Users\pedro\Desktop\WAAPI\WAAPI.Domain\obj\Debug\net6.0\ref\WAAPI.Domain.dll
